@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pytz = "*"
+skyfield = "*"
+
+[dev-packages]
+devtools = {extras = ["pygments"], version = "*"}
+
+[requires]
+python_version = "3.10"
