@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "0a2cfa77a99a387db503d044325a4110023f7f04abc2af48aa47602dd36736ab"
+            "sha256": "795370101db25bb68e2a3bc1268db6dcaf151d279bed96156428886b1c2c2767"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -64,6 +64,14 @@
             ],
             "markers": "python_version >= '3.8'",
             "version": "==1.23.4"
+        },
+        "pymemcache": {
+            "hashes": [
+                "sha256:27bf9bd1bbc1e20f83633208620d56de50f14185055e49504f4f5e94e94aff94",
+                "sha256:f507bc20e0dc8d562f8df9d872107a278df049fa496805c1431b926f3ddd0eab"
+            ],
+            "index": "pypi",
+            "version": "==4.0.0"
         },
         "pytz": {
             "hashes": [
